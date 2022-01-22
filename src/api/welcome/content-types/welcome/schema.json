@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "welcomes",
+  "info": {
+    "singularName": "welcome",
+    "pluralName": "welcomes",
+    "displayName": "Welcome & Introduction",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "welcome": {
+      "type": "string"
+    },
+    "introduction": {
+      "type": "text"
+    }
+  }
+}
